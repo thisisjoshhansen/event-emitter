@@ -1,0 +1,26 @@
+{
+  "name": "@thisisjoshhansen/event-emitter",
+  "version": "1.0.0",
+  "description": "A type-safe event emitter class",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.17",
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^22.2.0",
+    "@types/sinon": "^17.0.3",
+    "chai": "^4",
+    "mocha": "^10.7.3",
+    "sinon": "^18.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
