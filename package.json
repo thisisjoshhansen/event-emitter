@@ -1,6 +1,6 @@
 {
   "name": "@this-is-josh-hansen/event-emitter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A type-safe event emitter class",
   "main": "src/index.ts",
   "scripts": {
@@ -15,6 +15,10 @@
   "repository": {
     "type": "github",
     "url": "https://github.com/thisisjoshhansen/event-emitter"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/@this-is-josh-hansen/event-emitter",
+    "access": "public"
   },
   "devDependencies": {
     "@types/chai": "^4.3.17",
