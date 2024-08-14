@@ -1,5 +1,5 @@
 {
-  "name": "@thisisjoshhansen/event-emitter",
+  "name": "@this-is-josh-hansen/event-emitter",
   "version": "1.0.0",
   "description": "A type-safe event emitter class",
   "main": "src/index.ts",
@@ -10,7 +10,7 @@
     "test:watch": "mocha --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Josh Hansen <thisisjoshhansen@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.3.17",
