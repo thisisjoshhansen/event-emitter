@@ -1,6 +1,6 @@
 {
   "name": "@this-is-josh-hansen/event-emitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A type-safe event emitter class",
   "main": "src/index.ts",
   "scripts": {
